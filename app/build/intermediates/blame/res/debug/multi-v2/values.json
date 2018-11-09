@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "738,682",
+                        "endColumns": "56,55",
+                        "endOffsets": "790,733"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,55",
+                        "endOffsets": "107,163"
+                    }
+                }
+            ]
+        }
+    ]
+}

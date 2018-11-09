@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\_Projects\\AndroidProjects\\HelloOpenGLES20\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
