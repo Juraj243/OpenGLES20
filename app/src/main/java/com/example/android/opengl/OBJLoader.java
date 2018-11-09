@@ -77,7 +77,7 @@ public class OBJLoader {
     }
 
     private void processVertex(String[] vertexData, List<Integer> indices){
-        int vertexPosition = Integer.parseInt(vertexData[0])/*-1*/;
+        int vertexPosition = Integer.parseInt(vertexData[0])-1;
         indices.add(vertexPosition);
     }
 
