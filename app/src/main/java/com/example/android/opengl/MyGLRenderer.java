@@ -64,7 +64,7 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
 
         mTriangle = new Triangle();
         mSquare   = new Square();
-        model = new Model(ol, "cube");
+        model = new Model(ol, "icosahedron");
     }
 
     @Override
@@ -99,9 +99,9 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
 
         //model.draw(mMVPMatrix);
         // Draw triangle
-        mTriangle.draw(mMVPMatrix);
+        //mTriangle.draw(mMVPMatrix);
         //mSquare.draw(scratch);
-        //model.draw(scratch);
+        model.draw(mMVPMatrix);
         //circle.draw(unused, scratch);
     }
 
